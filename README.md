@@ -1,3 +1,3 @@
-# Flask-Blog-App
-by Correy Schafer 
-where a user can update, upload, delete, create , login,reset password and email, plus uploading and updating profile picture
+
+# My-First-Flask-Blog-App
+with this blog app, a user can register, login , create, update, delete and update profile inclusively. Build from Correy Schaffer web application tutorial.
